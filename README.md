@@ -14,7 +14,7 @@ export OPENAI_API_KEY=sk_XXXXXXXX
 
 ## Example
 
-Let fine-tuned GPT audit Kairos Auction Faucet from Sherlock competition:
+Let fine-tuned GPT audit [Kairos Auction Faucet](https://github.com/sherlock-audit/2023-02-kairos/blob/main/kairos-contracts/src/AuctionFacet.sol) from Sherlock competition:
 
 | **False Positives** | **9** |
 |---------------------|-------|
